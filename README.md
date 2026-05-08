@@ -35,6 +35,7 @@
 - Git | GitHub
 - Docker (Basics)
 - AWS (Basics)
+- Postman
 - Vercel | Railway
 
 ---
@@ -45,6 +46,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/pamindu-virunjith-78771a270
 - 📧 Email: paminduvirunjith2002@gmail.com
 
----
-
-⭐ Always open to internships, junior developer, and collaboration opportunities!
