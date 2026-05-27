@@ -1,6 +1,5 @@
 # Hi 👋 I'm Pamindu Virunjith
-
-🎓 Undergraduate in Information & Communication Technology  
+ 
 💻 Full Stack Developer | React & Node.js Enthusiast  
 📍 Sri Lanka  
 🚀 Passionate about building scalable web applications and modern digital solutions  
