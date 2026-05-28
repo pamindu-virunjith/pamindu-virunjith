@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pamindu Virunjith
+<h1 align="center">Hi 👋 I'm Pamindu Virunjith</h1>
  
 💻 Full Stack Developer | React & Node.js Enthusiast  
 🚀 Passionate about building scalable web applications and modern digital solutions  
