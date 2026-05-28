@@ -3,8 +3,9 @@
 💻 Full Stack Developer | React & Node.js Enthusiast  
 🚀 Passionate about building scalable web applications and modern digital solutions  
 📍 Sri Lanka 
-![](https://komarev.com/ghpvc/?username=pamindu-virunjith&color=green)
-
+----
+### ![](https://komarev.com/ghpvc/?username=pamindu-virunjith&color=green)
+----
 ---
 
 ## 👨‍💻 About Me
