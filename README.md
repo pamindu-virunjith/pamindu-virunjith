@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋 I'm Pamindu Virunjith</h1>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h1>Hi 👋 I'm Pamindu Virunjith</h1>
+    </td>
+    <td align="right">
+     ![](https://komarev.com/ghpvc/?username=pamindu-virunjith&color=green)
+    </td>
+  </tr>
+</table>
  
 💻 Full Stack Developer | React & Node.js Enthusiast  
 🚀 Passionate about building scalable web applications and modern digital solutions  
-📍 Sri Lanka  
-### ![](https://komarev.com/ghpvc/?username=pamindu-virunjith&color=green)
+📍 Sri Lanka 
 
 ---
 
